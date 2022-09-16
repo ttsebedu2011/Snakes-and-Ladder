@@ -1,0 +1,91 @@
+path_, currPosition = 0
+, newPosition = 5
+, rolledDice = 5
+, isLadder = 0
+, isSnake = 1
+, length = 4
+
+path_, currPosition = 1
+, newPosition = 7
+, rolledDice = 6
+, isLadder = 0
+, isSnake = 1864032
+, length = 0
+
+path_, currPosition = 7
+, newPosition = 10
+, rolledDice = 3
+, isLadder = 0
+, isSnake = 1864032
+, length = 0
+
+path_, currPosition = 10
+, newPosition = 14
+, rolledDice = 4
+, isLadder = 0
+, isSnake = 1864032
+, length = 0
+
+path_, currPosition = 14
+, newPosition = 16
+, rolledDice = 2
+, isLadder = 1
+, isSnake = 1551000950
+, length = 8
+
+path_, currPosition = 24
+, newPosition = 26
+, rolledDice = 2
+, isLadder = 1936876915
+, isSnake = 1
+, length = 4
+
+path_, currPosition = 22
+, newPosition = 27
+, rolledDice = 5
+, isLadder = 1937075312
+, isSnake = 942682162
+, length = 1546989870
+
+path_, currPosition = 27
+, newPosition = 33
+, rolledDice = 6
+, isLadder = 1551068513
+, isSnake = 1919381362
+, length = 1348234863
+
+path_, currPosition = 33
+, newPosition = 39
+, rolledDice = 6
+, isLadder = 1394635878
+, isSnake = 1869836146
+, length = 1702261349
+
+path_, currPosition = 39
+, newPosition = 40
+, rolledDice = 1
+, isLadder = 1936876915
+, isSnake = 1432107587
+, length = 1633839464
+
+path_, currPosition = 40
+, newPosition = 42
+, rolledDice = 2
+, isLadder = 1835102823
+, isSnake = 1869762652
+, length = 1851552613
+
+path_, currPosition = 42
+, newPosition = 46
+, rolledDice = 4
+, isLadder = 0
+, isSnake = 0
+, length = 0
+
+path_, currPosition = 46
+, newPosition = 47
+, rolledDice = 1
+, isLadder = 0
+, isSnake = 0
+, length = 0
+
